@@ -21,4 +21,5 @@ A maior parte das acomodações possui apenas uma cama, mas há uma pequena porc
 ![image](https://user-images.githubusercontent.com/87442811/178163032-95e64990-0cc4-4c89-b668-1edb613679cf.png)
 
 
-
+Link do Pandas Profiling Report:
+file:///D:/Giovanna/UF/MLOps/Trabalho%2002%20Unidade%2002/T02U0203%20-%20AIRBNB.html
